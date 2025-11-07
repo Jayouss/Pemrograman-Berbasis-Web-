@@ -8,7 +8,7 @@ DollarWise adalah halaman promosi (landing page) simulasi platform finansial cer
 didesain dengan tampilan modern, animasi halus, dan interaktivitas ringan menggunakan HTML, CSS, dan JavaScript.
 
 ## ✨ Fitur
-- Tampilan glassmorphism (kaca transparan modern)
+- Tampilan glassmorphism
 - Scroll reveal animation dan hover interaktif
 - Grafik garis ekonomi (dummy chart)
 - Modal popup kaca untuk detail fitur
